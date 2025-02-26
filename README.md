@@ -11,6 +11,6 @@ We adopted far more stringent criteria than the original Chinese Quartet ‘tier
 Data Availability
 
 The benchmark SNV call set, also known as the truth set VCFs, can be downloaded from the Genome Variation Map (GVM). The accession number is GVM000971, and the download link is https://bigd.big.ac.cn/gvm/getProjectDetail?Project=GVM000971.
-The benchmark region can be obtained from from the folder named "benchmark region". Information regarding the benchmark SNV call set and the region can be obtained from the table named "The info of Benchmark data".
+The benchmark region can be obtained from the folder named "benchmark region". Information regarding the benchmark SNV call set and the region can be obtained from the table named "The info of Benchmark data".
 The reference genome is available for download from https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/GRCh38_reference_genome/GRCh38_full_analysis_set_plus_decoy_hla.fa.
 
