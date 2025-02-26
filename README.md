@@ -2,8 +2,7 @@
 Benchmarking-SNV-calls-in-the-flanks-of-structural-variants
 
 
-This repository houses the 92 benchmarking regions (in BED format) utilized in the paper "Variant calling in the dark genome: benchmarking SNV calls in the flanks of structural variants",
-plus, the associated scripts used to (a) create them, (b) run variant calling pipelines against them, and (c) parse output of the same. Scripts should be considered "lab quality" rather than "developer quality." 
+This repository houses the 92 benchmarking regions (in BED format) utilized in the paper "Variant calling in the dark genome: benchmarking SNV calls in the flanks of structural variants". Plus, the associated scripts used to (1-2) filter SV (03)create benchmark data, (04-05) run variant calling pipelines against them, and (06) apply hap.py. Scripts should be considered "lab quality" rather than "developer quality." 
 
 The construction of SV-flank benchmarking dataset 
 
